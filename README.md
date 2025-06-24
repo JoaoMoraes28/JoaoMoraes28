@@ -20,7 +20,7 @@ Aqui estão alguns dos meus projetos mais relevantes:
 
 - [🔗 Real Aj - Bike](https://github.com/JoaoMoraes28/LIMA_Bike) - Web-site para divulgação de uma Bike (HTML, CSS e Framework Tailwind)
 - [🔗 Gerenciador de Tarefas e Funcionários](https://github.com/JoaoMoraes28/LOPAL_TarefasFuncionarios) - Sistema para gerenciar Tarefas e Funcionários (JAVA)
-- [🔗 Calculadora de Redes](https://github.com/JoaoMoraes28/Calculadora_Redes) - Ferramenta para cálculos de redes (JAVA)
+- [🔗 Calculadora de Redes](https://github.com/JoaoMoraes28/LOPAL_Redes) - Ferramenta para cálculos de redes (JAVA)
 
 ---
 
