@@ -26,6 +26,14 @@ Aqui estão alguns dos meus projetos mais relevantes:
     <img src="./img/Group 26.png" width="49%" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/JoaoMoraes28/lume-angular-commerce">
+    <img src="./img/Group 28.png" width="49%" />
+  </a>
+  <a href="https://github.com/JoaoMoraes28/API_filme_BEM_LEGAL">
+    <img src="./img/Group 27.png" width="49%" />
+  </a>
+</p>
 
 ---
 
