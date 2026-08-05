@@ -8,15 +8,14 @@
 
 ---
 
-## 🔥 Tecnologias & Ferramentas
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## Tecnologias & Ferramentas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,react,nodejs,python,kotlin,mysql,postgres&theme=dark" alt="Minhas Tecnologias" />
+</p>
 
 ---
 
-## 🚀 Projetos Destacados
+## Projetos Destacados
 Aqui estão alguns dos meus projetos mais relevantes:
 
 - [🔗 Clone WhatsApp](https://github.com/JoaoMoraes28/web-site_ZapZap) - Interface idêntica ao WhatsApp Web (HTML, CSS, JS)
@@ -27,12 +26,19 @@ Aqui estão alguns dos meus projetos mais relevantes:
 
 ---
 
-## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoMoraes28&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMoraes28&layout=compact&theme=dark)
+## Estatísticas do GitHub
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JoaoMoraes28&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" height="170" />
+</div>
 
 ---
 
-## 🌎 Onde me encontrar
-📧 Email: joaovictor.moraes2728@gmail.com  
-🔗 [GitHub](https://github.com/JoaoMoraes28)
+## Onde me encontrar
+<p align="center">
+  <a href="mailto:joaovictor.moraes2728@gmail.com ">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-santos-de-moraes-0b6532270/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
