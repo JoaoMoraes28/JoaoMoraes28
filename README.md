@@ -2,7 +2,7 @@
 
 ---
 
-🎓 Cursando **Desenvolvimento de Sistemas** no **SENAI**  
+🎓 Curso de **Desenvolvimento de Sistemas** no **SENAI** concluído 
 💻 Apaixonado por tecnologia, programação e inovação  
 🚀 Sempre aprendendo e compartilhando conhecimento  
 
@@ -18,11 +18,14 @@
 ## Projetos Destacados
 Aqui estão alguns dos meus projetos mais relevantes:
 
-- [🔗 Clone WhatsApp](https://github.com/JoaoMoraes28/web-site_ZapZap) - Interface idêntica ao WhatsApp Web (HTML, CSS, JS)
-- [🔗 API de Filmes](https://github.com/JoaoMoraes28/API_filme_BEM_LEGAL) - API para consulta e cadastro de filmes integrados com banco de dados (Node JS)
-- [🔗 Zoomania](https://github.com/JoaoMoraes28/ZooMania_WebSite_API) - Web-site integrado com API para consulta de animais (HTML, CSS, JS)
-- [🔗 Gerenciador de Tarefas e Funcionários](https://github.com/JoaoMoraes28/LOPAL_TarefasFuncionarios) - Sistema para gerenciar Tarefas e Funcionários (JAVA)
-- [🔗 Calculadora de Redes](https://github.com/JoaoMoraes28/LOPAL_Redes) - Ferramenta para cálculos de redes (JAVA)
+<p align="center">
+  <a href="https://github.com/JoaoMoraes28/template-SyncroBab">
+    <img src="./img/Group 25.png" width="49%" />
+  </a>
+  <a href="https://github.com/JoaoMoraes28/clinic_vp">
+    <img src="./img/Group 26.png" width="49%" />
+  </a>
+</p>
 
 ---
 
