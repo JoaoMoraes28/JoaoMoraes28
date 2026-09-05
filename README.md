@@ -19,7 +19,7 @@
 Aqui estão alguns dos meus projetos mais relevantes:
 
 <p align="center">
-  <a href="https://github.com/JoaoMoraes28/template-SyncroBab">
+  <a href="https://github.com/Syncrobaby/Syncrobaby">
     <img src="./img/Group 25.png" width="49%" />
   </a>
   <a href="https://github.com/JoaoMoraes28/clinic_vp">
